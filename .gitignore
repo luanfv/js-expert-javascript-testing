@@ -3,3 +3,6 @@
 
 #stubs
 /02-stubs/node_modules
+
+#spies
+/03-spies/node_modules
