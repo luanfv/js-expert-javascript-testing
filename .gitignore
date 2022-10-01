@@ -11,3 +11,7 @@
 /04-coverage-e2e/node_modules
 /04-coverage-e2e/.nyc_output
 /04-coverage-e2e/coverage
+
+#coverage e2e
+/05-tdd-project/node_modules
+/05-tdd-project/databases/*.json
