@@ -6,3 +6,8 @@
 
 #spies
 /03-spies/node_modules
+
+#coverage e2e
+/04-coverage-e2e/node_modules
+/04-coverage-e2e/.nyc_output
+/04-coverage-e2e/coverage
