@@ -15,3 +15,5 @@
 #coverage e2e
 /05-tdd-project/node_modules
 /05-tdd-project/databases/*.json
+/05-tdd-project/.nyc_output
+/05-tdd-project/coverage
