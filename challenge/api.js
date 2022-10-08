@@ -1,13 +1,19 @@
 const http = require('http');
 
 const routes = {
+    '/categories:get': (request, response) => {
+        response.writeHead(200);
+        
+        return response.end();
+    },
+
     '/cars:get': (request, response) => {
         response.writeHead(200);
         
         return response.end();
     },
 
-    '/cars:post': async (request, response) => {
+    '/order:post': async (request, response) => {
         console.log(request);
 
         return response.end();
